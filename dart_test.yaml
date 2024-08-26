@@ -1,0 +1,5 @@
+test_on: 'windows'
+
+tags:
+  secondary:
+    skip: 'second tag is disabled'
